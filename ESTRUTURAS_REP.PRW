@@ -11,6 +11,8 @@ user function ESTRUTUR()
 
         MsgInfo("A variável nNum1: " + cValToChar(nNum1) + " é igual à nNum2: " + cValToChar(nNum2))
 
+    // Estrutura ElseIf
+
     ElseIf(nNum1 > nNum2)
 
         MsgAlert("A variável é menor")
@@ -20,10 +22,5 @@ user function ESTRUTUR()
         MsgAlert("As variáveis são diferentes!")
 
     EndIf
-
-    
-
-
-
 
 return
