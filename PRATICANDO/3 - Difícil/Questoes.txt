@@ -1,0 +1,37 @@
+🔴 Nível Difícil
+2️⃣1️⃣ Manipulação de Tabelas (SA1 - Clientes)
+Crie um programa que leia os primeiros 5 clientes e exiba A1_COD e A1_NOME.
+
+2️⃣2️⃣ Criação de Menu Simples (FWMenu())
+Crie um menu com opções "1 - Cadastrar", "2 - Excluir" e "3 - Sair".
+
+2️⃣3️⃣ Uso de ReadVar() e WriteVar()
+Crie um programa que salve e leia uma variável persistente no Protheus.
+
+2️⃣4️⃣ Criação de Tela Customizada (FWForm)
+Crie uma tela com um campo de entrada para nome e um botão "Exibir".
+
+2️⃣5️⃣ Trabalhando com MsExec() para SQL
+Crie um programa que execute uma query SQL para buscar os clientes da tabela SA1.
+
+2️⃣6️⃣ Automação com Schedule()
+Crie uma função que execute um agendamento de uma rotina a cada 5 minutos.
+
+2️⃣7️⃣ Conexão com WebService (HttpPost())
+Crie um programa que faça uma requisição HTTP POST e retorne a resposta.
+
+2️⃣8️⃣ Criação de Log Personalizado (LogMessage())
+Crie um sistema que grave logs em um arquivo de texto para auditoria.
+
+2️⃣9️⃣ Execução de Procedures SQL
+Crie uma função que execute uma Stored Procedure no banco de dados.
+
+3️⃣0️⃣ Integração com JSON (JsonObject())
+Crie um programa que gere um JSON no formato:
+
+json
+{
+  "nome": "João",
+  "idade": 30,
+  "cidade": "São Paulo"
+}

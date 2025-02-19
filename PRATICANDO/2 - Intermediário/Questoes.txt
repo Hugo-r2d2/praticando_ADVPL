@@ -1,0 +1,31 @@
+🟡 Nível Intermediário
+1️⃣1️⃣ Manipulação de Datas
+Crie uma função que retorne a data atual formatada como "DD/MM/AAAA".
+
+1️⃣2️⃣ Uso de While
+Crie um loop que exiba números pares de 2 a 20.
+
+1️⃣3️⃣ Cálculo de Fatorial
+Crie uma função que calcule o fatorial de um número.
+
+1️⃣4️⃣ Função Recursiva
+Crie uma função recursiva para calcular o fibonacci de N.
+
+1️⃣5️⃣ Leitura e Escrita em Arquivo (FWFile)
+Crie um arquivo .TXT, escreva "Arquivo criado com sucesso!" e leia seu conteúdo.
+
+1️⃣6️⃣ Uso de AAdd() para Arrays
+Crie um array vazio e insira os números 1 a 5 dinamicamente usando AAdd().
+
+1️⃣7️⃣ Ordenação de Array
+Crie um array com {5, 2, 8, 1} e ordene em ordem crescente.
+
+1️⃣8️⃣ Uso de ValType()
+Crie uma função que receba um parâmetro qualquer e retorne seu tipo de dado.
+
+1️⃣9️⃣ Trabalhando com SubStr()
+Crie uma função que receba uma palavra e exiba seus três primeiros caracteres.
+
+2️⃣0️⃣ Uso de AllTrim()
+Crie uma função que recebe " TOTVS " e retorna "TOTVS".
+
