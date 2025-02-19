@@ -1,0 +1,30 @@
+🟢 Nível Fácil
+1️⃣ Função Simples
+Crie uma função SomaValores() que receba dois números e retorne a soma.
+
+2️⃣ Exibir Mensagem Simples
+Crie um programa que exiba "Olá, mundo!" na tela usando MsgInfo().
+
+3️⃣ Manipulação de Strings
+Crie uma função que receba uma string e retorne em maiúsculas usando Upper().
+
+4️⃣ Loop com For
+Exiba os números de 1 a 10 no log do Protheus usando FWLogMsg().
+
+5️⃣ Manipulação de Arrays
+Crie um array com { "TOTVS", "ERP", "ADVPL" } e exiba cada valor.
+
+6️⃣ Uso de If-Else
+Crie uma função VerificaPar() que recebe um número e retorna "Par" ou "Ímpar".
+
+7️⃣ Concatenação de Strings
+Crie uma função que receba nome e sobrenome e retorne "Nome Completo: [nome] [sobrenome]".
+
+8️⃣ Uso de Do While
+Crie um loop que exiba "Executando..." até que um contador chegue a 5.
+
+9️⃣ Trabalhando com StrZero()
+Crie uma função que recebe um número e retorna ele com 5 dígitos (exemplo: 7 → 00007).
+
+🔟 Função com Parâmetros Opcionais
+Crie uma função Multiplica(a, b := 2) onde b tem valor padrão 2, e retorne a * b.
